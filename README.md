@@ -15,3 +15,4 @@
 ### Stories test
 
 1. [Part 2: Chapter 1 Episode 5](stories/storydata_2101005.htm)
+1. [The same as the above but is an md file](stories/storydata_2101005.md)
