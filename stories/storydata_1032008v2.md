@@ -4,16 +4,16 @@ In another dream from Ameth, **{player}** is in class when he gets a call from A
 
 ---
 
-## Situation: A Flight of Fancy
+## Title: A Flight of Fancy
 
-### Narration
-**{player}** is helping Akino with her shopping.
+> **Narration:**
+> **{player}** is helping Akino with her shopping.
 
-**Akino:**  
+> **Akino:**  
 > Well, that was a fruitful outing!  
 > Thankfully, I had you to show me the way.  
 
-**Akino:**  
+> **Akino:**  
 > I had heard there was a lovely shop nearby,  
 > but I simply couldn't find it on my own...  
 > Luckily, you knew exactly where it was.  
@@ -30,9 +30,7 @@ In another dream from Ameth, **{player}** is in class when he gets a call from A
 
 ---
 
-## Scene Change: School Classroom
-
-**Schoolboy:**  
+> **Schoolboy:**  
 > Hey, **{player}**, this class really *sucks*, huh?  
 > I can't wait for it to be over.  
 
@@ -43,17 +41,18 @@ In another dream from Ameth, **{player}** is in class when he gets a call from A
 > Excuse me, **{player}**, I thought I made it clear that  
 > mobile phones are to be turned off during class!  
 
----
+> **Choice: (1) Sorry...**  
 
-### **Choice**
-- **(1) "Sorry..."**  
-  > **Teacher:**  
-  > If it's an emergency, you may go use your phone in the hallway.  
+`---tag1---`  
+> **Teacher:**  
+> If it's an emergency, you may go use your phone in the hallway.  
 
-- **(2) Leave the classroom and answer the phone.**  
-  > **Akino:**  
-  > Oh, there you are, **{player}**.  
-  > Good morning. Lovely weather we're having today.
+>**Choice: (2) Leave the classroom and answer the phone.**  
+
+`---tag2---`
+> **Akino:**  
+> Oh, there you are, **{player}**.  
+> Good morning. Lovely weather we're having today.
 
 
 | Choice | Outcome |
