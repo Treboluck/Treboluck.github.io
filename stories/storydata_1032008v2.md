@@ -9,11 +9,11 @@ In another dream from Ameth, **{player}** is in class when he gets a call from A
 ### Narration
 **{player}** is helping Akino with her shopping.
 
-> **Akino:**  
+**Akino:**  
 > Well, that was a fruitful outing!  
 > Thankfully, I had you to show me the way.  
 
-> **Akino:**  
+**Akino:**  
 > I had heard there was a lovely shop nearby,  
 > but I simply couldn't find it on my own...  
 > Luckily, you knew exactly where it was.  
@@ -32,8 +32,8 @@ In another dream from Ameth, **{player}** is in class when he gets a call from A
 
 ## Scene Change: School Classroom
 
-> **Schoolboy:**  
-> Hey, **{player}**, this class really sucks, huh?  
+**Schoolboy:**  
+> Hey, **{player}**, this class really *sucks*, huh?  
 > I can't wait for it to be over.  
 
 > **Schoolboy:**  
