@@ -6,10 +6,9 @@ In another dream from Ameth, **{player}** is in class when he gets a call from A
 
 ## Situation: A Flight of Fancy
 
-### Narration
+**Narration:**  
 **{player}** is helping Akino with her shopping.
 
-### Dialogue
 **Akino:**  
 Well, that was a fruitful outing!  
 Thankfully, I had you to show me the way.
@@ -31,10 +30,6 @@ This light, it seems somehow familiar...
 
 ---
 
-## Scene Change
-
-### School Classroom
-
 **Schoolboy:**  
 Hey, **{player}**, this class really sucks, huh?  
 I can't wait for it to be over.
@@ -46,14 +41,15 @@ Hm? **{player}**, your phone's ringing.
 Excuse me, **{player}**, I thought I made it clear that  
 mobile phones are to be turned off during class!
 
----
+**Choice 1. Sorry...**  
 
-### **Choice**
-1. **"Sorry..."**  
-   - **Teacher:**  
-     If it's an emergency, you may go use your phone in the hallway.  
+`---tag1---`  
+**Teacher:**  
+If it's an emergency, you may go use your phone in the hallway.  
 
-2. **Leave the classroom and answer the phone.**  
-   - **Akino:**  
-     Oh, there you are, **{player}**.  
-     Good morning. Lovely weather we're having today.
+**Choice 2. Leave the classroom and answer the phone.**  
+
+`---tag2---`  
+**Akino:**  
+Oh, there you are, **{player}**.  
+Good morning. Lovely weather we're having today.
