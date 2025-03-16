@@ -2,10 +2,11 @@
 title: Pricone EN Story Archive
 description: A nice way to navigate the stories of Princess Connect.
 logo: assets/img/F8AnRXyaAAAYyZn.jpg  # your existing logo
-remote_theme: mmistakes/minimal-mistakes
+remote_theme: "mmistakes/minimal-mistakes@4.26.2"
 plugins:
   - jekyll-remote-theme
   - jekyll-seo-tag  # optional but good for SEO/meta tags
+  - jekyll-include-cache
 
 # Optional Minimal Mistakes settings
 minimal_mistakes_skin: warm  # warm skin! You can try others like "default", "air", "neon", "dark"
