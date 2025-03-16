@@ -9,5 +9,5 @@ plugins:
   - jekyll-include-cache
 
 # Optional Minimal Mistakes settings
-minimal_mistakes_skin: warm  # warm skin! You can try others like "default", "air", "neon", "dark"
-markdown: kramdown
+# minimal_mistakes_skin: warm  # warm skin! You can try others like "default", "air", "neon", "dark"
+# markdown: kramdown
