@@ -1,5 +1,12 @@
-title: gian
-logo: assets/img/F8AnRXyaAAAYyZn.jpg
-description: this is a description
-show_downloads: true
-remote_theme: lewismiddleton/cayman-dark
+# show_downloads: true
+title: Pricone EN Story Archive
+description: A nice way to navigate the stories of Princess Connect.
+logo: assets/img/F8AnRXyaAAAYyZn.jpg  # your existing logo
+remote_theme: mmistakes/minimal-mistakes
+plugins:
+  - jekyll-remote-theme
+  - jekyll-seo-tag  # optional but good for SEO/meta tags
+
+# Optional Minimal Mistakes settings
+minimal_mistakes_skin: warm  # warm skin! You can try others like "default", "air", "neon", "dark"
+markdown: kramdown
