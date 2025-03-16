@@ -2,6 +2,4 @@ title: gian
 logo: assets/img/F8AnRXyaAAAYyZn.jpg
 description: this is a description
 show_downloads: true
-remote_theme: mmistakes/minimal-mistakes
-plugins:
-  - jekyll-remote-theme
+remote_theme: lewismiddleton/cayman-dark
