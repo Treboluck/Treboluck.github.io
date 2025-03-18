@@ -12,8 +12,8 @@ title_separator: "-"
 subtitle: "A subtitle placeholder"
 description: A nice way to navigate the stories of Princess Connect.
 url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-# baseurl                  : # the subpath of your site, e.g. "/blog"
-# repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+baseurl: https://treboluck.github.io/ # the subpath of your site, e.g. "/blog"
+repository: Treboluck/Treboluck.github.io # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 # teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo: assets/img/F8AnRXyaAAAYyZn.jpg # your existing logo
 masthead_title: # overrides the website title displayed in the masthead, use " " for no title
@@ -101,7 +101,7 @@ analytics:
 
 # Site Author
 author:
-  name: "Your Name"
+  name: "gian"
   avatar: # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio: "I am an **amazing** person."
   location: "Somewhere"
