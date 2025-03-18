@@ -109,7 +109,7 @@ plugins:
 defaults:
   # _posts
   - scope:
-      path: ""
+      path: "stories"
       type: "" #"posts"
     values:
       layout: single
