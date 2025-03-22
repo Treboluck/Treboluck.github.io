@@ -118,3 +118,8 @@ defaults:
       comments: false
       share: true
       related: true
+
+collections:
+  stories:
+    output: true
+    permalink: /:type/:group/:name/
