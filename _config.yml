@@ -54,6 +54,7 @@ author:
 include:
   - .htaccess
   - _pages
+  - _stories
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
