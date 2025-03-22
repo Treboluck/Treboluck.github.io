@@ -3,7 +3,7 @@
 remote_theme: "mmistakes/minimal-mistakes@4.26.2"
 
 # Optional Minimal Mistakes settings
-minimal_mistakes_skin: "sunrise" # warm skin! You can try others like "default", "air", "neon", "dark"
+minimal_mistakes_skin: "dark" # warm skin! You can try others like "default", "air", "neon", "sunrise"
 
 # locale: "en-US"
 # rtl: false
@@ -95,7 +95,7 @@ excerpt_separator: "\n\n"
 incremental: false
 
 # Outputting
-permalink: /:categories/:title/
+# permalink: /:categories/:title/
 # timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 plugins:
