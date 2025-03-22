@@ -117,7 +117,7 @@ defaults:
       path: ""
       type: "stories"
     values:
-      layout: single
+      layout: archive
       author_profile: true
       # read_time: true
       comments: false
