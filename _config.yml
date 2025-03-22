@@ -122,4 +122,4 @@ defaults:
 collections:
   stories:
     output: true
-    permalink: /:type/:group/:name/
+    # permalink: /:type/:group/:name/

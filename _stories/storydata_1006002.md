@@ -1,6 +1,8 @@
 ---
 type: character-story
 group: akari
+title: akari-episode-2
+permalink: character-story/akari/akari-episode-2
 ---
 
 # Akari Episode 2
