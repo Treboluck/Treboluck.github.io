@@ -114,11 +114,11 @@ defaults:
   # _stories
   - scope:
       path: ""
-      type: "stories" #"posts"
+      type: "stories"
     values:
       layout: single
       author_profile: true
       read_time: true
       comments: false
-      share: true
-      related: true
+      # share: true
+      # related: true

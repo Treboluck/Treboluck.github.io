@@ -1,9 +1,10 @@
----
+<!-- ---
 type: character-story
 group: akari
 title: akari-episode-7
 permalink: character-story/akari/akari-episode-7
 ---
+ -->
 
 # Akari Episode 7
 
