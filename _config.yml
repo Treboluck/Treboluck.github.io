@@ -109,7 +109,7 @@ plugins:
 collections:
   stories:
     output: true
-    permalink: /:collection/:title/
+    permalink: /:collection/:path/
 # Defaults
 defaults:
   # _stories

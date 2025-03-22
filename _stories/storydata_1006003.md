@@ -1,14 +1,11 @@
 ---
-#type: character-story
-#group: akari
 title: Akari Episode 3
 excerpt: As part of her stamina training, Akari attempts to do some tree-climbing. At first she struggles to reach the branches, but with {player}'s help, she manages to reach the top. Of course, then she also needs his help getting back down...
-# permalink: character-story/akari/akari-episode-3
 ---
 
-# Akari Episode 3
+<!-- # Akari Episode 3
 
-As part of her stamina training, Akari attempts to do some tree-climbing. At first she struggles to reach the branches, but with {player}'s help, she manages to reach the top. Of course, then she also needs his help getting back down...
+As part of her stamina training, Akari attempts to do some tree-climbing. At first she struggles to reach the branches, but with {player}'s help, she manages to reach the top. Of course, then she also needs his help getting back down... -->
 
 ## Title: Train Me, Coach!
 

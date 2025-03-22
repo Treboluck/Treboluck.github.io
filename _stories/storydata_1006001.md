@@ -1,6 +1,11 @@
-# Akari Episode 1
+---
+title: Akari Episode 1
+excerpt: {player} cushions Akari's fall when she has a tree-climbing accident. She explains that she was chasing after her laundry that had blown away. When {player} reveals that he found her underwear, Akari is amused by his embarrassment.
+---
 
-{player} cushions Akari's fall when she has a tree-climbing accident. She explains that she was chasing after her laundry that had blown away. When {player} reveals that he found her underwear, Akari is amused by his embarrassment.
+<!-- # Akari Episode 1
+
+{player} cushions Akari's fall when she has a tree-climbing accident. She explains that she was chasing after her laundry that had blown away. When {player} reveals that he found her underwear, Akari is amused by his embarrassment. -->
 
 ## Title: Catch Me in Your Arms!
 

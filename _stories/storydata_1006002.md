@@ -1,13 +1,11 @@
-<!-- ---
-type: character-story
-group: akari
-title: akari-episode-2
-permalink: character-story/akari/akari-episode-2
---- -->
+---
+title: Akari Episode 2
+excerpt: Akari is working on improving her saxophone technique, and {player} suggests some stamina training. The two of them race each other, until Akari is so worn out that {player} has to carry her home.
+---
 
-# Akari Episode 2
+<!-- # Akari Episode 2
 
-Akari is working on improving her saxophone technique, and {player} suggests some stamina training. The two of them race each other, until Akari is so worn out that {player} has to carry her home.
+Akari is working on improving her saxophone technique, and {player} suggests some stamina training. The two of them race each other, until Akari is so worn out that {player} has to carry her home. -->
 
 ## Title: I'm at My Limit...!
 

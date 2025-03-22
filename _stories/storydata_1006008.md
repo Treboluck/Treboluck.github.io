@@ -1,11 +1,11 @@
 ---
-title: akari-episode-8
+title: Akari Episode 8
 excerpt: Ameth uses her powers to show {player} and Akari another dream. Akari performs in a marching band at a local parade, and though initially the crowds make her nervous, seeing {player}'s face among them helps her to stay calm and put on a great performance.
 ---
 
-# Akari Episode 8
+<!-- # Akari Episode 8
 
-Ameth uses her powers to show {player} and Akari another dream. Akari performs in a marching band at a local parade, and though initially the crowds make her nervous, seeing {player}'s face among them helps her to stay calm and put on a great performance.
+Ameth uses her powers to show {player} and Akari another dream. Akari performs in a marching band at a local parade, and though initially the crowds make her nervous, seeing {player}'s face among them helps her to stay calm and put on a great performance. -->
 
 ## Title: Just the Sight of Your Face
 
