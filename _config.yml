@@ -105,12 +105,16 @@ plugins:
   - jekyll-seo-tag # optional but good for SEO/meta tags
   - jekyll-include-cache
 
+collections:
+  stories:
+    output: true
+    permalink: /:collection/:path/
 # Defaults
 defaults:
-  # _posts
+  # _stories
   - scope:
-      path: "stories"
-      type: "" #"posts"
+      path: ""
+      type: "stories" #"posts"
     values:
       layout: single
       author_profile: true
@@ -118,8 +122,3 @@ defaults:
       comments: false
       share: true
       related: true
-
-collections:
-  stories:
-    output: true
-    # permalink: /:type/:group/:name/
