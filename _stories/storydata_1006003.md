@@ -1,7 +1,8 @@
 ---
 #type: character-story
 #group: akari
-title: akari-episode-3
+title: Akari Episode 3
+excerpt: As part of her stamina training, Akari attempts to do some tree-climbing. At first she struggles to reach the branches, but with {player}'s help, she manages to reach the top. Of course, then she also needs his help getting back down...
 # permalink: character-story/akari/akari-episode-3
 ---
 

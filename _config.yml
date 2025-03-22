@@ -109,7 +109,7 @@ plugins:
 collections:
   stories:
     output: true
-    permalink: /:collection/:path/
+    permalink: /:collection/:title/
 # Defaults
 defaults:
   # _stories
@@ -119,7 +119,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
+      # read_time: true
       comments: false
       # share: true
       # related: true
