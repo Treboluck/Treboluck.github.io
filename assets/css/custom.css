@@ -2,3 +2,14 @@
   font-size: 12px;
   line-height: 1.2;
 }
+
+.speaker {
+  font-size: 22px;
+  color: #4a90e2;
+}
+
+.blocktext {
+  background: #f9f9f9;
+  padding: 10px;
+  border-left: 5px solid #ccc;
+}
