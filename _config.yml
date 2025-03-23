@@ -117,9 +117,11 @@ defaults:
       path: ""
       type: "stories"
     values:
-      layout: archive
-      author_profile: true
+      layout: single
+      author_profile: false
       # read_time: true
       comments: false
-      # share: true
+      custom_css:
+        - /assets/css/custom.css
+      # share: tru
       # related: true
