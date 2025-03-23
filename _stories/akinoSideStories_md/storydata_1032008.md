@@ -5,24 +5,24 @@ excerpt: In another dream from Ameth, {player} is in class when he gets a call f
 
 <!-- # Akino Episode 8 -->
 
-**Summary:** In another dream from Ameth, {player} is in class when he gets a call from Akino saying she is on the way in a helicopter to take him on a date. Upon awakening, Akino speaks joyfully of making the dream a reality. {.notice--info}
+**Summary:** In another dream from Ameth, {player} is in class when he gets a call from Akino saying she is on the way in a helicopter to take him on a date. Upon awakening, Akino speaks joyfully of making the dream a reality.{:.notice--info}
 
 ## Title: A Flight of Fancy
 
-**Narration：** {.notice--primary}
-{player} is helping Akino with her shopping. {.notice}
+**Narration：**{:.notice--primary}  
+{player} is helping Akino with her shopping.{:.notice}
 
-**Akino：** {.speaker}
+**Akino：**{:.speaker}  
 Well, that was a fruitful outing!  
 Thankfully, I had you to show me the way.
 {: .blocktext}
 
 **Akino：**  
-I had heard there was a lovely shop nearby, {.blocktext}
+I had heard there was a lovely shop nearby,{:.blocktext}  
 but I simply couldn't find it on my own...  
-Luckily, you knew exactly where it was. {.blocktext}
+Luckily, you knew exactly where it was.{:.blocktext}
 
-**Akino：**  
+**Akino：**{: style="color:red; font-size:22"}  
 I mean, would you look at this gorgeous necklace?  
 The way it glitters and sparkles is so pretty.  
 Why, it's almost like it's glowing itself...
